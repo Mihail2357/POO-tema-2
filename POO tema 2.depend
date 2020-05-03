@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1385320478 source:c:\users\mama\desktop\c++ mihail\poo tema 2\main.cpp
+	<iostream>
+
+1588457141 source:c:\users\mama\desktop\c++ mihail\poo tema 2\src\cautator.cpp
+	<iostream>
+	"Cautator.h"
+
+1588457141 c:\users\mama\desktop\c++ mihail\poo tema 2\include\cautator.h
+	<string>
+
+1587073444 source:c:\users\mama\desktop\c++ mihail\poo tema 2\src\world.cpp
+	<iostream>
+	<algorithm>
+	"World.h"
+	"Cautator.h"
+
+1588457141 c:\users\mama\desktop\c++ mihail\poo tema 2\include\world.h
+	<vector>
+	<string>
+	"Cautator.h"
+
+1588027282 source:c:\users\mama\desktop\c++ mihail\poo tema 2\src\ghost_agent.cpp
+	"Ghost_agent.h"
+
+1588530207 c:\users\mama\desktop\c++ mihail\poo tema 2\include\ghost_agent.h
+	"World.h"
+	"Cautator.h"
+
+1588493188 source:c:\users\mama\desktop\c++ mihail\poo tema 2\src\diagonal_agent.cpp
+	<iostream>
+	"Diagonal_agent.h"
+	"World.h"
+
+1588493637 c:\users\mama\desktop\c++ mihail\poo tema 2\include\diagonal_agent.h
+	"World.h"
+	"Cautator.h"
+
